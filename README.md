@@ -8,6 +8,8 @@
 
 - 📫 How to reach me: **tuananhniichan@gmail.com**
 
+- 📄 Know about my experiences: [Resume](https://www.topcv.vn/xem-cv/VwVaAgdXAVQMB1cMAQQFBwRbWwcBBlJSAlFWUA0655)
+
 - ⚡ Fun fact: **I love games**
 
 
