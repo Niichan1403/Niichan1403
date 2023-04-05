@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Aninagory](https://github.com/lethanksbinh/Aninagori)
 
-- 🌱 I’m currently learning **MERN stack, UI/UX design and creative coding**
+- 🌱 I’m currently learning **MERN stack, UI/UX design and Creative coding**
 
-- 📫 How to reach me **tuananhniichan@gmail.com**
+- 📫 How to reach me: **tuananhniichan@gmail.com**
 
-- ⚡ Fun fact **I love games**
+- ⚡ Fun fact: **I love games**
 
-<picture> <img align="right" src="" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Niichan1403/Niichan1403/blob/update/Right_Side.gif" width = 250px></picture>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
