@@ -22,23 +22,31 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<table border="0" align="center">
-  <tr border="0">
-    <td width="50%" align="center">
-      
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=niichan1403&show_icons=true&locale=en" alt="niichan1403" />
-      <br>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niichan1403&" alt="niichan1403" />
-      
-    </td>
-    
-    <td width="50%" align="center">
-      
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niichan1403&show_icons=true&locale=en&layout=compact" alt="niichan1403" />
-      
-    </td>
-    
-  </tr>
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+                  
+<br>
   
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niichan1403&show_icons=true&locale=en&layout=compact" alt="niichan1403" />
+  <br></br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=niichan1403&show_icons=true&locale=en" alt="niichan1403" />
+
+</td>
+
+<td width="50%" align="center">
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niichan1403&" alt="niichan1403"/>
+  
+</td>
+</tr>
 </table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
