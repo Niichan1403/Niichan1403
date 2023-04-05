@@ -39,7 +39,7 @@
 
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niichan1403&hide_border=true&no-bg=true&no-frame=true&show_icons=true&locale=en" alt="niichan1403" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niichan1403&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="niichan1403" />
   
 </td>
 </tr>
