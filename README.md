@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tuan Anh aka Niichan</h1>
 <h3 align="center">A passionate web developer from Vietnam</h3>
+<picture> <img align="right" src="https://github.com/Niichan1403/Niichan1403/Right_Side.gif" width = 250px></picture>
 
 - 🔭 I’m currently working on [Aninagory](https://github.com/lethanksbinh/Aninagori)
 
@@ -8,8 +9,6 @@
 - 📫 How to reach me: **tuananhniichan@gmail.com**
 
 - ⚡ Fun fact: **I love games**
-
-<picture> <img align="right" src="https://github.com/Niichan1403/Niichan1403/Right_Side.gif" width = 250px></picture>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
