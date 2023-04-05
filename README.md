@@ -31,7 +31,7 @@
 <tr border="0">
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niichan1403&show_icons=true&locale=en&layout=compact" alt="niichan1403" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <br></br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=niichan1403&show_icons=true&locale=en" alt="niichan1403" />
 
@@ -47,6 +47,6 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niichan1403&show_icons=true&locale=en&layout=compact" alt="niichan1403" />
 </p>
 
