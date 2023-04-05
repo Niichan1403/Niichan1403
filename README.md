@@ -18,9 +18,9 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niichan1403&show_icons=true&locale=en&layout=compact" alt="niichan1403" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niichan1403&show_icons=true&locale=en" alt="niichan1403" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niichan1403&" alt="niichan1403" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niichan1403&show_icons=true&locale=en&layout=compact" alt="niichan1403" /></p>
 
