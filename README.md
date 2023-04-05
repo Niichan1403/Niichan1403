@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuan Anh aka Niichan</h1>
 <h3 align="center">A passionate web developer from Vietnam</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niichan1403" alt="niichan1403" /></a> </p>
+
 <picture><img align="right" src="https://github.com/Niichan1403/Niichan1403/blob/main/Right_Side.gif" width = 250px></picture>
 
 - 🔭 I’m currently working on [Aninagory](https://github.com/lethanksbinh/Aninagori)
