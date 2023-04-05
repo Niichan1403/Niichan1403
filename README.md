@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tuan Anh aka Niichan</h1>
 <h3 align="center">A passionate web developer from Vietnam</h3>
-<picture><img align="right" src="https://github.com/Niichan1403/Niichan1403/Right_Side.gif" width = 250px></picture>
+<picture><img align="right" src="https://github.com/Niichan1403/Right_Side.gif" width = 250px></picture>
 
 - 🔭 I’m currently working on [Aninagory](https://github.com/lethanksbinh/Aninagori)
 
@@ -14,7 +14,7 @@
 <p align="left">
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><h3> Languages and Tools</h3>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 
 <br>
 
