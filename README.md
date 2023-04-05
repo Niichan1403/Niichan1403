@@ -25,13 +25,20 @@
 <table border="0" align="center">
   <tr border="0">
     <td width="50%" align="center">
+      
       <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niichan1403&show_icons=true&locale=en" alt="niichan1403" /></p>
 
       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niichan1403&" alt="niichan1403" /></p>
+      
     </td>
+    
     <td width="50%" align="center">
+      
       <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niichan1403&show_icons=true&locale=en&layout=compact" alt="niichan1403" /></p>
+      
     </td>
+    
   </tr>
+  
 </table>
 
