@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **tuananhniichan@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://www.topcv.vn/xem-cv/BgBcDAIMBw8MB1JTBVcFUFNVAwNQAwcGDgYHCQbf95)
+- 📄 Know about my experiences: [Resume 1](https://www.topcv.vn/xem-cv/BgBcDAIMBw8MB1JTBVcFUFNVAwNQAwcGDgYHCQbf95) & [Resume 2](https://www.topcv.vn/xem-cv/UVACUgYDVVECUlcABghbUFJTBl8GUQEFAVBXUgcbf5)
 
 - ⚡ Fun fact: **I love games**
 
