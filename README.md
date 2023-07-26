@@ -5,9 +5,9 @@
 <picture><img align="right" src="https://github.com/Niichan1403/Niichan1403/blob/main/Right_Side.gif" width = 250px></picture>
 <br>
 
-- 🔭 I’m currently working on [Aninagory](https://github.com/lethanksbinh/Aninagori)
+- 🔭 I’m currently working on my indie games
 
-- 🌱 I’m currently learning **MERN stack, UI/UX design and Unity**
+- 🌱 I’m currently learning **Unity and Aseprite**
 
 - 📫 How to reach me: **tuananhniichan@gmail.com**
 
